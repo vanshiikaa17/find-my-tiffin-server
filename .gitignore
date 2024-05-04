@@ -24,7 +24,5 @@ yarn-error.log*
 
 nodemon.json
 
-images
-/images
 
 *.env
